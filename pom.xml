@@ -15,7 +15,7 @@
 	<description>movie info service which provides the infos of movies</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 		<spring-cloud.version>Hoxton.RELEASE</spring-cloud.version> <!--this will tell the version of spring cloud to be used for eureka -->
 	</properties>
 
